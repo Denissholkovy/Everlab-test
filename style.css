@@ -630,7 +630,7 @@ header {
 }
 
 .none-img-mob {
-  background-image: url(/img/women.png);
+  background-image: url(img/women.png);
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -641,7 +641,7 @@ header {
   }
 }
 .none-img-pc {
-  background-image: url(/img/one.png);
+  background-image: url(img/one.png);
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -706,7 +706,7 @@ header {
   width: 34.17vw;
   height: 51.18vw;
   margin: 0.21vw 2.57vw 0 13.26vw;
-  background-image: url(/img/men.png);
+  background-image: url(img/men.png);
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -1145,7 +1145,7 @@ footer {
   height: 3.33vw;
   z-index: 22;
   cursor: pointer;
-  background: url(/icon/BTN\ UP.svg) no-repeat;
+  background: url(icon/BTN\ UP.svg) no-repeat;
   background-position-x: center;
   background-position-y: center;
   margin: 0;
