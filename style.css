@@ -358,9 +358,18 @@ header {
     height: 7.5vw;
   }
 }
+
 .bl-icons-nav img {
+  width: 1.67vw;
+  height: 1.67vw;
   cursor: pointer;
   margin: 0;
+}
+@media screen and (max-width: 500px) {
+  .bl-icons-nav img {
+    width: 7.5vw;
+    height: 7.5vw;
+  }
 }
 
 .language-nav {
