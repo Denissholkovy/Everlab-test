@@ -1,11 +1,11 @@
 let menuBtn = document.querySelector('.menu-btn');
 let menu = document.querySelector('.menu');
-let ope = document.querySelector('body');
+let body = document.querySelector('body');
 
 menuBtn.addEventListener('click', function(){
 	menuBtn.classList.toggle('active');
 	menu.classList.toggle('active');
-  ope.classList.toggle('active');
+  body.classList.toggle('active');
 });
 
 
